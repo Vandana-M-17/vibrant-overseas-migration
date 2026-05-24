@@ -1,2 +1,27 @@
-# vibrant-overseas-migration
-A responsive overseas migration website designed with a modern UI, clean branding, and interactive frontend customization. The project focuses on user-friendly navigation, attractive layouts, and mobile-friendly design to deliver a professional digital experience for migration and consultancy services.
+# Vibrant Overseas Migration
+
+Responsive migration consultancy website developed using HTML, CSS, Bootstrap, and JavaScript.
+
+## Features
+
+- Responsive Design
+- Modern UI
+- Mobile Friendly
+- Smooth Navigation
+- Contact Form
+- Professional Layout
+
+## Technologies Used
+
+- HTML5
+- CSS3
+- Bootstrap
+- JavaScript
+
+## Live Demo
+
+
+
+## Author
+
+Vandana M
